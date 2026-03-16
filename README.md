@@ -10,25 +10,9 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name:     Gonçalo Rodrigues Ribeiro
-degree:   Computer Engineering @ Universidade do Minho
-location: Braga, Portugal 🇵🇹
+I'm **Gonçalo Rodrigues Ribeiro**, a Computer Engineering student at **Universidade do Minho**, passionate about technology and driven by a deep interest in **Software Architecture and System Design**. I believe the most critical phase of any software project happens before the first line of code is written — through careful analysis, contextualisation, and modelling of complex problems into robust and scalable solutions.
 
-focus:
-  - Software Architecture & System Design
-  - Modeling & Analysis of Complex Systems
-  - Scalable & Robust Software Solutions
-
-philosophy: >
-  Great software is built on a well-thought foundation.
-  Analyze → Model → Design → Build.
-
-currently:
-  - learning:  Advanced System Design patterns
-  - building:  Scalable architecture projects
-  - open_to:   Collaborations & new challenges
-```
+Currently deepening my knowledge in advanced design patterns and system modelling, I'm always open to connecting with fellow engineers and tackling new challenges in the software world. 🚀
 
 ---
 
