@@ -52,7 +52,7 @@ Currently deepening my knowledge in advanced design patterns and system modellin
 
 | 🏗️ Project | 📄 Description | 🛠️ Stack | 🔗 |
 |---|---|---|---|
-| **[Project Name]** | Short impactful description | `Java` `UML` | [Repo](#) |
+| **TheGrill — Restaurant Management System** | Integrated system to manage orders, stock and operations for a fast-food chain | `Java` `UML` | [Repo](https://github.com/goncalo106842/DSS-TP-2526) |
 | **[Project Name]** | Short impactful description | `Python` `Docker` | [Repo](#) |
 | **[Project Name]** | Short impactful description | `C` `Linux` | [Repo](#) |
 
