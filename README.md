@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gonçalo%20Ribeiro&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%7C%20Architecture%20%26%20System%20Design&descAlignY=60&descColor=a8d8ea" width="100%"/>
+# 👋 Hi, I'm Gonçalo Ribeiro
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Good+software+starts+before+the+first+line+of+code.;Architect+first%2C+develop+second.)](https://git.io/typing-svg)
+### 🏗️ Software Engineering · Architecture & System Design
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Good+software+starts+before+the+first+line+of+code.;Analyze+%E2%86%92+Model+%E2%86%92+Design+%E2%86%92+Build.)](https://git.io/typing-svg)
 
 </div>
 
@@ -106,6 +108,6 @@ Currently deepening my knowledge in advanced design patterns and system modellin
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=goncalo106842&style=flat-square&color=2c5364&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+![Wave](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
 
 </div>
