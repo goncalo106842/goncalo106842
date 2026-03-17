@@ -53,8 +53,7 @@ Currently deepening my knowledge in advanced design patterns and system modellin
 | 🏗️ Project | 📄 Description | 🛠️ Stack | 🔗 |
 |---|---|---|---|
 | **TheGrill — Restaurant Management System** | Integrated system to manage orders, stock and operations for a fast-food chain | `Java` `UML` | [Repo](https://github.com/goncalo106842/DSS-TP-2526) |
-| **[Project Name]** | Short impactful description | `Python` `Docker` | [Repo](#) |
-| **[Project Name]** | Short impactful description | `C` `Linux` | [Repo](#) |
+| **TaxiGreen — Fleet Optimization System** | AI-powered system to optimize a mixed taxi fleet (electric & combustion) across a real city graph with 50+ locations | `Java` `AI` `Graph Algorithms` | [Repo](https://github.com/goncalo106842/IA-TP-2526) |
 
 > 💡 *Tip: Fill in your actual project names and descriptions here!*
 
